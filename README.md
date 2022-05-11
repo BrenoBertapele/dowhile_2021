@@ -9,13 +9,13 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
 
 ## DoWhile 2021
 
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/67246528/138088767-84309a13-0ca9-44d6-8df3-9bfb25731cb5.png"/>
 </p>
-
 
 <br>
 
