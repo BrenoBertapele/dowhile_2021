@@ -1,9 +1,3 @@
-<h1 align="center">
-    <img alt="DoWhile 2021" title="DoWhile 2021" src="https://user-images.githubusercontent.com/67246528/138088560-ad0dfd1c-1dbb-447f-9642-a8f3008695a8.png" />
-</h1>
-
-<br>
-
 ## DoWhile 2021
 
 <p  align="center">
