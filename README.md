@@ -2,12 +2,6 @@
     <img alt="DoWhile 2021" title="DoWhile 2021" src="https://user-images.githubusercontent.com/67246528/138088560-ad0dfd1c-1dbb-447f-9642-a8f3008695a8.png" />
 </h1>
 
-<p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-Extra-miles">Extra miles</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 <br>
 
 ## DoWhile 2021
